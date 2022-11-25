@@ -9,12 +9,12 @@ Click here for assignment 1
 
 ## Assignment 2
 
-Click here for assignment 1 
+Click here for assignment 2
 
 ## Assignment 3 
 
-Click here for assignment 1 
+Click here for assignment 3 
 
 ## Assignment 4 
 
-Click here for assignment 1 
+Click here for assignment 4 
