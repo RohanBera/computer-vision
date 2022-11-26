@@ -22,6 +22,10 @@ I randomly chose an image from the image frames and performed Harris corner dete
 
 I randomly chose another image from the video frames. I then found the homography matrix between the 2 images and plotted a line mapping to map similar points between the two images. The homography matrix can be found in the jupyter notebook.
 
+<p float="left">
+  <img src="./homography.png" width="400" />
+</p>
+
 <hr />
 
 ## Question 2, 4 & 5
