@@ -10,6 +10,12 @@ The images are then used for calculating the camera matrix, translation and rota
 
 The corrected images are found in the 'images' folder and the corresponding camera values are stored in their respective folders (left, right and color).
 
+<p float="left">
+  <img src="./16648398145492.png" width="200" />
+  <img src="./16648398145492_corners.png" width="200" /> 
+  <img src="./16648398145492_result.png" width="200" /> 
+</p>
+
 <hr />
 
 ## Question 2
