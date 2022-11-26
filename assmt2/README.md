@@ -56,7 +56,6 @@ I chose a pair of images randomly from the video image frames and applied the ab
 
 <hr />
 
-
 ## Question 3
 
-
+Find the code for this question in q3.ipynb. The function converts the image into integral image. The output matrix can be seen in the jupyter notebook. The matrix has also been stored in 'integral_img.txt' for better understanding.
