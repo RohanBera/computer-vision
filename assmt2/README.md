@@ -13,8 +13,8 @@ These frames are used for this and the subsequent questions.
 I randomly chose an image from the image frames and performed Harris corner detection and canny edge detection on the image. The images with the corners and edges have been stored in the folder.
 
 <p float="left">
-  <img src="/harris_corner_detection.png" width="150" />
-  <img src="/canny_edge_detection.png" width="150" /> 
+  <img src="./harris_corner_detection.png" width="150" />
+  <img src="./canny_edge_detection.png" width="150" /> 
 </p>
 
 
