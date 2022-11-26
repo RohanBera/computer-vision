@@ -12,6 +12,12 @@ These frames are used for this and the subsequent questions.
 
 I randomly chose an image from the image frames and performed Harris corner detection and canny edge detection on the image. The images with the corners and edges have been stored in the folder.
 
+<p float="left">
+  <img src="/harris_corner_detection.png" width="150" />
+  <img src="/canny_edge_detection.png" width="150" /> 
+</p>
+
+
 ### b.
 
 I randomly chose another image from the video frames. I then found the homography matrix between the 2 images and plotted a line mapping to map similar points between the two images. The homography matrix can be found in the jupyter notebook.
