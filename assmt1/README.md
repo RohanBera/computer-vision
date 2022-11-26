@@ -2,7 +2,7 @@
 
 ## Question 1 
 
-To caliberate the camera, I have used a 8x6 checker board pattern. The code to take 10 images of the checker board using both the monochrome (left and right) and color cameras can be found in the file q1.ipynb
+To calibrate the camera, I have used a 8x6 checkerboard pattern. The code to take 10 images of the checker board using both the monochrome (left and right) and color cameras can be found in the file q1.ipynb
 
 The images captured can found in the folder 'images'.
 
@@ -22,7 +22,7 @@ The corrected images are found in the 'images' folder and the corresponding came
 
 The camera matrix, rotational matrix and translation matrix which were stored in the above step are used to calculate translate the image coordinate to world coordinate.
 
-two pixel coordinates (whose distance we want to measure) are chosen from an image and are converted into world coordinate. The distance between these 3d points then determine the real worl distance.
+two pixel coordinates (whose distance we want to measure) are chosen from an image and are converted into world coordinate. The distance between these 3d points then determine the real world distance.
 
 <hr />
 
@@ -38,9 +38,9 @@ For q4, we have to use the caliberation code provided to us by the depth ai team
 
 All the required files and directories can be found in "q4"
 
-Once dowloaded, we can run the "install_requirements.py" file to install all the reuired dependancies.
+Once downloaded, we can run the "install_requirements.py" file to install all the reuired dependancies.
 
-Once this is done, we can run the "caliberate.py" file to begin the caliberation process.
+Once this is done, we can run the "caliberate.py" file to begin the calibration process.
 
 The code prompts us to place the checker board in certain angles and orientations. Once the program completes execution, we get the camera matrix. 
 
