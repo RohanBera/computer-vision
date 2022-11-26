@@ -17,13 +17,12 @@ I randomly chose an image from the image frames and performed Harris corner dete
   <img src="./canny_edge_detection.png" width="300" /> 
 </p>
 
-
 ### b.
 
 I randomly chose another image from the video frames. I then found the homography matrix between the 2 images and plotted a line mapping to map similar points between the two images. The homography matrix can be found in the jupyter notebook.
 
 <p float="left">
-  <img src="./homography.png" width="400" />
+  <img src="./homography.png" width="600" />
 </p>
 
 <hr />
@@ -39,6 +38,21 @@ The function allows you to use either SIFT or ORB features based on parameters. 
 >> NOTE: I have used SIFT features to stitch the images as the question doesnt mention which feature to use. 
 
 I took 5 sets of 3 images and stiched them together. The images and the stiched output can be found in the folder "image_stitching"
+
+<img src="./image_stitching/Artandhumanities03_team6_stitched.jpg" width="500" />
+<img src="./image_stitching/sciencecent_stiched.jpg" width="500" /> 
+
+### 4.
+
+I chose a pair of images randomly from the video image frames and applied the above funtion on the same. For this question, I made use of SIFT features.
+
+<img src="./q4_stiched_frames.png" width="500" /> 
+
+### 5.
+
+I chose a pair of images randomly from the video image frames and applied the above funtion on the same. For this question, I made use of ORB features.
+
+<img src="./q5_stiched_frames.png" width="500" /> 
 
 <hr />
 
