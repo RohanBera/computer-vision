@@ -10,7 +10,7 @@ These frames are used for this and the subsequent questions.
 
 I manually selected a good frame from the frame list and cropped out a region of interest (roi.png)
 
-<img src="./q1/roi.png" width="150" />
+<img src="./q1/roi.png" width="400" />
 
 The pattern (roi) is then used to search in 10 randomly selected images from the video frames. 
 
@@ -20,8 +20,8 @@ The images in which pattern is found using "Normalized correlation" is stored in
 
 
 <p float="left">
-  <img src="./q1/pattern_match_ncor/16679490694421_out.png" width="200" />
-  <img src="./q1/pattern_match_ssd/16679490721743_out.png" width="200" /> 
+  <img src="./q1/pattern_match_ncor/16679490694421_out.png" width="400" />
+  <img src="./q1/pattern_match_ssd/16679490721743_out.png" width="400" /> 
 </p>
 
 
@@ -47,22 +47,22 @@ The outputs obtained are stored in directory 'optical_flow'
 > every previous frame as a reference frame
 
 <p float="left">
-  <img src="./q3/optical_flow/1.png" width="200" />
-  <img src="./q3/optical_flow/1_mask.png" width="200" />
+  <img src="./q3/optical_flow/1.png" width="400" />
+  <img src="./q3/optical_flow/1_mask.png" width="400" />
 </p>
 
 > every 11th frame as a reference frame
 
 <p float="left">
-  <img src="./q3/optical_flow/10.png" width="200" />
-  <img src="./q3/optical_flow/10_mask.png" width="200" />
+  <img src="./q3/optical_flow/10.png" width="400" />
+  <img src="./q3/optical_flow/10_mask.png" width="400" />
 </p>
 
 > every 31st frame as a reference frame
 
 <p float="left">
-  <img src="./q3/optical_flow/30.png" width="200" />
-  <img src="./q3/optical_flow/30_mask.png" width="200" />
+  <img src="./q3/optical_flow/30.png" width="400" />
+  <img src="./q3/optical_flow/30_mask.png" width="400" />
 </p>
 
 <hr />
