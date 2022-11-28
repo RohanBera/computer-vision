@@ -34,4 +34,35 @@ The images in which pattern is found using "Normalized correlation" is stored in
 
 ## Question 3
 
+The algorithm can be found in q3/q3.ipynb
+
+I first took the frames from 'video_frames' directory and appended them into a list (frame_array) in alpha-numeric order. Then
+
+The first frame is used to find good corners. The subsequent frames use these good corners as reference points.
+
+I created a function that plots the optical flow vectors on each frame treating every nth frame as a reference frame. By default, n is set as 1 (i.e. every previous frame).
+
+The outputs obtained are stored in directory 'optical_flow'
+
+> every previous frame as a reference frame
+
+<p float="left">
+  <img src="./q3/optical_flow/1.png" width="200" />
+  <img src="./q3/optical_flow/1_mask.png" width="200" />
+</p>
+
+> every 11th frame as a reference frame
+
+<p float="left">
+  <img src="./q3/optical_flow/10.png" width="200" />
+  <img src="./q3/optical_flow/10_mask.png" width="200" />
+</p>
+
+> every 31st frame as a reference frame
+
+<p float="left">
+  <img src="./q3/optical_flow/30.png" width="200" />
+  <img src="./q3/optical_flow/30_mask.png" width="200" />
+</p>
+
 <hr />
