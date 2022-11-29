@@ -28,7 +28,7 @@ two pixel coordinates (whose distance we want to measure) are chosen from an ima
 
 ## Question 3 
 
-In this question, I was successfully able to simultaneously display the live depth map and the color camera feed while displaying the frame rate in the terminal. I was able to reach frame rates of upto 100 Frames per second on my computer.
+In this question, I was successfully able to simultaneously display the live depth map and the color camera feed while displaying the frame rate in the terminal. I was able to reach frame rates of upto 30 Frames per second on my computer for the rbg camera.
 
 <hr />
 
