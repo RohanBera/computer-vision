@@ -80,15 +80,15 @@ I first took a few images i captured using my oak d lite camera. I cropped out t
 I then took 2 objects i was interested in.
 
 <p float="left">
-  <img src="./q4/red_flower.jpeg" width="400" />
-  <img src="./q4/blu_flower.jpeg" width="400" />
+  <img src="./q4/red_flower.jpeg" height="400" />
+  <img src="./q4/blu_flower.jpeg" height="400" />
 </p>
 
 I created a function that detects the objects in the image.
 The outputs obtained are stored in directory 'object_detected'
 
 <p float="left">
-  <img src="./q4/object_detected/blue_flower" width="400" />
-  <img src="./q4/object_detected/red_flower" width="400" />
+  <img src="./q4/object_detected/blue_flower.png" width="400" />
+  <img src="./q4/object_detected/red_flower.png" width="400" />
 </p>
 
