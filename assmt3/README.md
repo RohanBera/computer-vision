@@ -29,6 +29,13 @@ The images in which pattern is found using "Normalized correlation" is stored in
 
 ## Question 2
 
+The algorithm can be found in q2/q2.ipynb
+
+The frames have been selected from the video previously recorded. 
+
+I computed the motion function estimates and conducted image registration between consecutive frames. 
+
+<img src="./q2/registration.png" width="400" />
 
 <hr />
 
@@ -111,6 +118,8 @@ An example output can be seen below:
 
 ## Question 6 
 
+The algorithm can be found in q6/q6.ipynb
+
 I Placed a marker at 50cm (T) from the camera. I then took two pictures, with the camera seperated by 6.3cm (D). 
 
 <p float="left">
@@ -120,12 +129,12 @@ I Placed a marker at 50cm (T) from the camera. I then took two pictures, with th
 
 I first calculated the disparsity map.
 
-<img src="./q6/disparsity.jpeg" height="400" />
+<img src="./q6/disparsity.png" height="400" />
 
 From the disparsity map, i calculated the depth map using the formula:
 
 Depth (z) = (B * f) / Disparsity (x - x') 
 
-<img src="./q6/depth.jpeg" height="400" />
+<img src="./q6/depth.png" height="400" />
 
 From the map, we find that the marker is at a distance of 47cm.
