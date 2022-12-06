@@ -106,3 +106,26 @@ An example output can be seen below:
   <video src="./q5/video.mp4" width="400" />
   <video src="./q5/output_video.mp4" width="400" />
 </p>
+
+<hr />
+
+## Question 6 
+
+I Placed a marker at 50cm (T) from the camera. I then took two pictures, with the camera seperated by 6.3cm (D). 
+
+<p float="left">
+  <img src="./q6/m1.jpeg" height="400" />
+  <img src="./q6/m2.jpeg" height="400" />
+</p>
+
+I first calculated the disparsity map.
+
+<img src="./q6/disparsity.jpeg" height="400" />
+
+From the disparsity map, i calculated the depth map using the formula:
+
+Depth (z) = (B * f) / Disparsity (x - x') 
+
+<img src="./q6/depth.jpeg" height="400" />
+
+From the map, we find that the marker is at a distance of 47cm.
