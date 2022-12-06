@@ -92,3 +92,17 @@ The outputs obtained are stored in directory 'object_detected'
   <img src="./q4/object_detected/red_flower.png" width="400" />
 </p>
 
+<hr />
+
+## Question 5
+
+The algorithm can be found in q5/q5.ipynb
+
+The code provides option to either take live camera feed or use a prerecorded video to perform face detection.
+
+An example output can be seen below:
+
+<p float="left">
+  <video src="./q5/video.mp4" width="400" />
+  <video src="./q5/output_video.mp4" width="400" />
+</p>
