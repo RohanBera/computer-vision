@@ -1,5 +1,7 @@
 # Assignment 1
 
+Video link: [here](https://drive.google.com/file/d/1ISNnFxXdx8WW1FHg2HQMioJCV3Uqd-0C/view?usp=share_link)
+
 ## Question 1 
 
 To calibrate the camera, I have used a 8x6 checkerboard pattern. The code to take 10 images of the checker board using both the monochrome (left and right) and color cameras can be found in the file q1.ipynb
