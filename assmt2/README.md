@@ -1,5 +1,7 @@
 # Assignment 2
 
+Video link: [here](https://drive.google.com/file/d/1SbCCBMoqGMIA3kLQBEoVlgsGFgHmxVi1/view?usp=share_link)
+
 ## Question 1 
 
 The algorithm can be found in the the file 'q1.ipynb' 
