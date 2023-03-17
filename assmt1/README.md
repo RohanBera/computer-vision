@@ -1,6 +1,6 @@
 # Assignment 1
 
-Video link: [here](https://drive.google.com/file/d/1ISNnFxXdx8WW1FHg2HQMioJCV3Uqd-0C/view?usp=share_link)
+Video link: [here](https://www.youtube.com/watch?v=csVVtcWKk8g)
 
 ## Question 1 
 
